@@ -1,9 +1,12 @@
-PROJECT OVERVIEW:
-This project implements a real-time emotion recognition system using a Convolutional Neural Network (CNN). The system processes video input from a webcam, detects faces, and classifies the detected facial expressions into predefined emotion categories. The result is displayed in real-time on the video feed with bounding boxes and labels.
 
-Prerequisites
-  Python 3.7 or higher
-  Required libraries: tensorflow, numpy, opencv-python, joblib, sklearn
+# Data Science Projects Portfolio
 
-Install dependencies:
-pip install tensorflow numpy opencv-python joblib scikit-learn
+Welcome to my Data Science projects repository. This collection contains end-to-end data science projects focused on data cleaning ,data preprocessing, exploratory data analysis (EDA), and statistical insights.
+
+A heavy emphasis is placed on leveraging NumPy and Pandas for robust data cleaning pipelines and deep-dive analysis before feeding data into predictive models.
+
+### 🛠️ Tech Stack
+* **Pandas** - For data manipulation, cleaning, and structured analysis.
+* **NumPy** - For vectorized mathematical operations and handling multi-dimensional arrays.
+* **Matplotlib** - For foundational data visualizations and plots.
+* **Seaborn** - For advanced, high-level statistical data visualizations.
